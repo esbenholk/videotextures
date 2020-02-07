@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
+    />
+    <title>makeURLself@home</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="ticker">
+      <div id="headlines">
+        <a
+          href="https://i.kym-cdn.com/photos/images/original/001/316/888/f81.jpeg"
+          >find me in the toilet at parties</a
+        ><a
+          href="https://i.kym-cdn.com/photos/images/original/001/537/603/603.jpg"
+          >dont ask!</a
+        ><a
+          href="https://www.demilked.com/magazine/wp-content/uploads/2018/03/5aaa1ce36b9c8-funny-weird-wtf-stock-photos-coverimage.jpg"
+          >Sign Up for a months trial of feeling okay! Today!</a
+        ><a
+          href="https://edit.co.uk/uploads/2016/12/Image-1-Alternatives-to-stock-photography-Thinkstock.jpg"
+          >u lost in Anonymous Proxy too?</a
+        ><a
+          href="https://i.kym-cdn.com/photos/images/original/001/316/888/f81.jpeg"
+          >Hot Artists in your Area wanna chat!</a
+        ><a
+          href="https://www.liveabout.com/thmb/s6wcupyhjrstpTmxv_3K8kLIPYM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/feet-face-599c412c22fa3a0011d92add.jpg"
+          >Complete a Survey and recieve a desperate award!!!</a
+        >
+        <a
+          href="https://i0.wp.com/metro.co.uk/wp-content/uploads/2017/06/halp.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1"
+          >New Teen Trend: complaining about surplus of drugs is the new
+          black</a
+        ><a
+          href="https://adobe99u.files.wordpress.com/2018/01/antonio-guillem-girl-winning-good-news-stock-photography.jpg?quality=100&w=1640&h=1200"
+          >toilets never told me leave</a
+        >
+      </div>
+    </div>
+    <video controls autoplay id="videotexture" muted>
+      <source src="earthtexture.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+    <video controls autoplay id="videobackground">
+      <source src="heavenbackground.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- CDN Link to Three.js -->
+
+    <!--reference your JS file here. Mine looks like below-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/85/three.min.js"></script>
+
+    <script src="script.js"></script>
+    <!-- <script src="/path/to/index.js"></script> -->
+  </body>
+</html>
